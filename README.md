@@ -1,4 +1,5 @@
 ReactNative
 Install:
-1) npm install
-2)npm start/expo start
+1) npm install. 
+
+2) npm start/expo start. 
